@@ -1,28 +1,28 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
+   <a href="https://github.com/Toxi6266727">
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
      
 </p>
 <h1 align="center"> Miku Nakano (Beta)
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Zofiy Z" a WhatsApp bot made by Xofiy to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD/fork">
+  <a href="https://github.com/Toxi6266727/Miku-MD/fork">
     <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
+  <a href="https://github.com/Toxi6266727/Miku-MD/stargazers">
     <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
+  <a href="https://github.com/Toxi6266727/Miku-MD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
+<a href="https://github.com/Toxi6266727">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
@@ -47,7 +47,7 @@
 1. Copyright Free.
 2. No Source Code Encryption.
 3. Most commands.
-4. Singe prefix ("-").
+4. Singe prefix (".").
 5. Self restoration.
 6. No API key needed!
 7. Supports latest WhatsApp version.
